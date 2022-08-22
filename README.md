@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Veer1498
-- 👀 I’m interested in ...Design & Music
-- 🌱 I’m currently learning ... Java
+- 👋 Hi, I’m Veerendra Singavarapu
+- 🌱 I’m currently learning ... Java FullStack
+- 👀 I’m interested in ...Tech & Music
 - 💞️ I’m looking to collaborate on ... Java Projects
 - 📫 How to reach me ... singavarapuveerendra@gmail.com
 
