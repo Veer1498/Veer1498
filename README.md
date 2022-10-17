@@ -1,99 +1,48 @@
 <img src="https://miro.medium.com/max/1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif" align="center" height="400" width="1000" />
   
 
-## <div align="center">Hey 👋, I'm Veer!</div>  
-  
-
-<a href="https://github.com/Veer1498" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/i_am_veeru" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/veer1498" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/veerendra-singavarapu-b70787b3" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/veerendra.singavarapu" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/viru_the_rex" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<h1 align="center">Hi 👋, I'm Veer</h1>
+<h3 align="center">A passionate Full Stack Learner</h3>
 
 
+<p align="left"> <a href="https://twitter.com/i_am_veeru" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_veeru?logo=twitter&style=for-the-badge" alt="i_am_veeru" /></a> </p>
 
-### Glad to see you here!  
-I’m a full-stack Learner But from a Mech. Engg Background ..😅 Yes, you heard it right...   
-  
+- 🔭 I’m currently Learning **Java Full Stack Development**
 
-<br/>  
+- 🌱 I’m currently Working **Spring Boot, Angular**
 
+- 👯 I’m looking to collaborate on **Java Projects**
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+- 📫 How to reach me **singavarapuveerendra@gmail.com**
 
-- 🔭 I’m Working on Backend Projects  
-  
+- ⚡ Fun fact **I hate Light**
 
-- 🌱 I’m currently learning Spring Boot and Angular  
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/veer1498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="veer1498" height="30" width="40" /></a>
+<a href="https://twitter.com/i_am_veeru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_veeru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/veerendra-singavarapu-b70787b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerendra-singavarapu-b70787b3" height="30" width="40" /></a>
+<a href="https://fb.com/veerendra.singavarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="veerendra.singavarapu" height="30" width="40" /></a>
+<a href="https://instagram.com/viru_the_rex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viru_the_rex" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/singavarapuveer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singavarapuveer1" height="30" width="40" /></a>
+</p>
 
-- 👯 I’m looking to collaborate on Java Projects  
-  
+<h3 align="left">Languages and Tools:</h3>
 
-- ⚡ Fun fact : I hate Light,coz I work on Nights  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+<h3 align="left">📊 GitHub Stats:</h3>
 
+![](https://github-readme-stats.vercel.app/api?username=Veer1498&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Veer1498&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Veer1498&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h3 align="left">🏆 GitHub Trophies</h3>
 
-</td><td valign="top" width="50%">
+![](https://github-profile-trophy.vercel.app/?username=Veer1498&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://zellusmarketing.com/wp-content/uploads/2021/02/Email-Marketing-2-Gif-1.gif" align="left" height="100" width="100" />  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Veer1498&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veer1498&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>    
-
-<br/>  
-
-
-<br />
+<!-- 
+![](https://github-readme-stats.vercel.app/api?username=Veer1498&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Veer1498&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Veer1498&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ -->
+---
+[![](https://visitcount.itsvg.in/api?id=Veer1498&icon=0&color=0)](https://visitcount.itsvg.in)
