@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently Learning **Java Full Stack Development**
 
-- 🌱 I’m currently Working **Spring Boot, Angular**
+- 🌱 I’m currently Working on **Spring Boot, Angular**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
 - 📫 How to reach me **singavarapuveerendra@gmail.com**
 
-- ⚡ Fun fact **I hate Light**
+- ⚡ Fun fact **I hate lights, Coz I work at Nights**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
